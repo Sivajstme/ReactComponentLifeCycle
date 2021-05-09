@@ -12,7 +12,7 @@ This will Install all the dependencies required to run the project .
 
 ### `npm run start`
 
-This will open run the project and 
+This will run the project and 
 Open's [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 **Open developer console to view the results**.\
