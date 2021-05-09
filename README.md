@@ -8,7 +8,7 @@ Download the project files into your local machine and run below commands inside
 
 ### `npm install`
 
-This will Install all the dependencies required to run the project .\
+This will Install all the dependencies required to run the project .
 
 ### `npm run start`
 
